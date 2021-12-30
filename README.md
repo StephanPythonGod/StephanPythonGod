@@ -1,6 +1,6 @@
 👋 Hi, I’m Stephan aka. PythonGod  
 👀 I’m interested in Innovation, Entrepreneurship and great Ideas  
-🌱 I’m currently learning about Robots, Web 3.0 and how to build Terminator like AIs by using exisitng libaries  
+🌱 I’m currently learning about Robots, Web 3.0 and how to build Terminator like AIs by using prexisitng libaries  
 💞️ I’m looking to collaborate on interesting Projects.
 
 <!---
